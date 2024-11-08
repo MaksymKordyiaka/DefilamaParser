@@ -1,0 +1,62 @@
+[
+    {
+        "Name": "Ethereum",
+        "Protocols": "1210",
+        "TVL": "$54,965b"
+    },
+    {
+        "Name": "Solana",
+        "Protocols": "173",
+        "TVL": "$7,031b"
+    },
+    {
+        "Name": "Tron",
+        "Protocols": "34",
+        "TVL": "$6,74b"
+    },
+    {
+        "Name": "BSC",
+        "Protocols": "808",
+        "TVL": "$4,756b"
+    },
+    {
+        "Name": "Bitcoin",
+        "Protocols": "42",
+        "TVL": "$3,045b"
+    },
+    {
+        "Name": "Base",
+        "Protocols": "380",
+        "TVL": "$2,807b"
+    },
+    {
+        "Name": "Arbitrum",
+        "Protocols": "722",
+        "TVL": "$2,589b"
+    },
+    {
+        "Name": "Sui",
+        "Protocols": "43",
+        "TVL": "$1,101b"
+    },
+    {
+        "Name": "Avalanche",
+        "Protocols": "410",
+        "TVL": "$1,095b"
+    },
+    {
+        "Name": "Polygon",
+        "Protocols": "581",
+        "TVL": "$1,085b"
+    },
+    {
+        "Name": "Hyperliquid",
+        "Protocols": "3",
+        "TVL": "$954,52m"
+    },
+    {
+        "Name": "Aptos",
+        "Protocols": "49",
+        "TVL": "$896,51m"
+    }
+]

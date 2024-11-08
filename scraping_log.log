@@ -1,0 +1,8 @@
+2024-11-08 21:33:02,082 - INFO - ====== WebDriver manager ======
+2024-11-08 21:33:02,575 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-08 21:33:02,682 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-08 21:33:03,038 - INFO - Driver [C:\Users\MAX\.wdm\drivers\chromedriver\win64\130.0.6723.116\chromedriver-win32/chromedriver.exe] found in cache
+2024-11-08 21:33:04,069 - INFO - Starting to scrape data...
+2024-11-08 21:33:12,012 - INFO - Successfully scraped and saved 12 records.
+2024-11-08 21:33:12,012 - INFO - Waiting for 5.0 minutes...
+2024-11-08 21:33:12,012 - INFO - --------------------------------------------------

@@ -1,0 +1,5 @@
+{
+    "scrape_interval_minutes": 5,
+    "proxy": "http://127.0.0.1:8899"
+}
+
