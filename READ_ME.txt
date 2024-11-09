@@ -10,26 +10,21 @@ Git (optional, for cloning the repository)
 
 Steps to Set Up:
     1) Clone the Repository (Optional): If you haven’t already, clone the project from GitHub:
-
         >>> git clone https://github.com/MaksymKordyiaka/DefilamaParser.git
         >>> cd DefilamaParser
 
     2) Set up a Virtual Environment: It’s recommended to use a virtual environment to isolate dependencies for your project.
-
         >>> python -m venv .venv
 
     3) Activate the Virtual Environment:
 
         Windows:
-
             >>> .venv\Scripts\activate
 
         Linux/macOS:
-
             >>> source .venv/bin/activate
 
     4) Install Dependencies: Install the required dependencies from requirements.txt:
-
             >>> pip install -r requirements.txt
 
 This will install the necessary libraries for running the scraper, such as selenium, proxy and others.
@@ -50,7 +45,6 @@ Steps to Set Up Proxy:
         Alternatively, you can configure your local proxy using the proxy package.
 
     2) Configure the Proxy:
-
        >>> proxy (default http://127.0.0.1:8899)
          or
        >>> proxy --hostname 127.0.0.1 --port 9000 (You can set the proxy for your scraper by running the following command
@@ -60,7 +54,6 @@ Steps to Set Up Proxy:
     data collection. For example, if you want the scraper to run every 5 minutes, you can set the interval:
 
     config.json:
-
         {
             "scrape_interval_minutes": 5, (5 minutes)
             ...
@@ -73,30 +66,18 @@ You can adjust this value in your script according to your needs.
 3. Execute the Script
 Running the Scraper Script:
 
-    1) Create Virtual Environment (if not created):
-
-        >>> python -m venv .venv
-
-    2) Activate the Virtual Environment (if not already activated):
-
-        >>> .venv\Scripts\activate  # For Windows
-          or
-        >>> source .venv/bin/activate  # For Linux/macOS
-
-    3) Run the Scraper Script: To start scraping data from the website, run the following command:
-
-        >>> python scraper.py
+    1) Run the Scraper Script: To start scraping data from the website, run the following command:
+        >>> python scraper.py (proxy must be launched (2.2))
 
         The script will start scraping the data according to the defined parameters and intervals.
 
-    4) Output: Once the script is finished scraping, it will output the results (e.g., saved to a file or printed to the console).
+    2) Output: Once the script is finished scraping, it will output the results (e.g., saved to a file or printed to the console).
 
 
 
 4. Submit Your Python Script Along with the Documentation. Include examples of the data extracted.
 
 blockchain_data.json:
-
 [
     {
         "Name": "Ethereum",
